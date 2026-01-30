@@ -7,7 +7,7 @@
 **ISBN:** 978-80-11-08018-1  
 
 **GitHub Repository:**  
-https://github.com/101researchgroup/HR12---Energy,-Cost,-and-Entropy-Accounting-in-QFM
+https://github.com/101researchgroup/HR12---Energy-Cost-and-Entropy-Accounting-in-QFM
 
 ## Status
 Formal research document.
